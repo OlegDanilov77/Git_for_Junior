@@ -32,7 +32,9 @@ git clone
 ```
 И, поздравляем Вас! Ваш первый репозиторий создан!
 
-![](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
+![](https://ampravda.ru/files/articles-2/113316/gg2dpzaf04tc.jpg)
+
+
 ***
 ## 5. Проверка состояния репозитория
 Чтобы узнать как обстоят дела в нашем репозитории, необходимо ввести команду:
