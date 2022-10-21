@@ -252,16 +252,28 @@ git merge название_ветки_ИЗ_КОТОРОЙ_мы добавляе�
 * текст из `master` а за ним текст из`vetka_so_strannym_nazvaniem`
 
 gf
+
 gdsfd
+
 gdbd
+
+
 bdf
+
+
 bfd
+
 bf
+
 bdbfdb
+
 b
 dfb
+
 fdb
+
 db
+
 db
 
 
